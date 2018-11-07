@@ -1,5 +1,5 @@
 
-# Expressive Functional Programming
+# Expressive Functional Programming In Javascript
 
 ##### Notes from [Udemy's Advanced Javascript Development Course](https://www.udemy.com/refactoru-adv-js) and various other resources.
 
